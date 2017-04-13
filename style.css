@@ -1,0 +1,36 @@
+html {
+	background-color: #eee;
+	font-family: Helevitica, sans-serif;
+}
+
+#scene {
+	border: 1px solid #000;
+	padding-left: 0;
+  padding-right: 0;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+#go {
+	display: none;
+	width: 182px;
+	height: 40px;
+	margin:-350px auto;
+}
+
+.score {
+	width: 85px;
+	padding-left: 0;
+  	padding-right: 0;
+  	margin-left: auto;
+  	margin-right: auto;
+  	display: block;
+  	color: red;
+  	font-size: 1.2em;
+}
+
+.score #cnt {
+	font-style: normal;
+	color: #000;
+}
